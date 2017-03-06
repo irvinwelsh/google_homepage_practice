@@ -1,0 +1,45 @@
+.sfield{
+ width:60%;
+ margin-bottom: 1%;
+}
+.content{
+ margin-top:15%;
+ margin-left:29%;
+}
+img{
+ padding-left:15%;
+}
+.btn{
+ margin-left:20%;
+}
+ul{
+ list-style:none;
+ overflow:hidden;
+}
+ul li{
+ float:right;
+ padding: 0 1%;
+}
+ul li a{
+ text-decoration:none;
+ color:#ddd;
+}
+.bell{
+ margin-top:20%;
+ opacity:0.4;
+}
+ul li.text{
+ padding-top:0.3%;
+}
+.footer {
+   position:fixed;
+   left:0px;
+   bottom:0px;
+   height:40px;
+   width:100%;
+   background:#C0C0C0;
+}
+ul li.foot{
+ padding:0 10px;
+}
+
